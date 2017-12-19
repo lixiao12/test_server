@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/activii01" />
+    <file type="web" url="file://$PROJECT_DIR$/activiti01" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis_ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/StudentLeave" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mybatis_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/activii01/pom.xml" />
+        <option value="$PROJECT_DIR$/StudentLeave/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
