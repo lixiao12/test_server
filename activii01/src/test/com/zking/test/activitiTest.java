@@ -19,7 +19,7 @@ public class activitiTest {
     public void testCreateTable(){
         processEngine = ProcessEngines.getDefaultProcessEngine();
         System.out.println("创表成功");
-        System.out.println("ssss00");
+        System.out.println("ssss00777");
     }
 
     @Test
